@@ -1,6 +1,6 @@
 FROM python:3.6.1
 
-LABEL NAME ansible-role-ntp-test
+LABEL NAME ntp-test
 LABEL VERSION 1.0.1
 
 COPY ./requirements/ /usr/src/requirements/

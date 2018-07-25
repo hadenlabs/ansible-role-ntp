@@ -1,13 +1,13 @@
-Ansible Role Ntp
-################
+Ntp
+###
 
 |Build Status| |Ansible Galaxy| |GitHub issues| |Average time to resolve an issue| |Percentage of issues still open| |GitHub license|
 
 :Version: 0.1.0
-:Web: https://github.com/hadenlabs/ansible-role-ntp
-:Download: http://github.com/hadenlabs/ansible-role-ntp
-:Source: http://github.com/hadenlabs/ansible-role-ntp
-:Keywords: ansible-role-ntp
+:Web: https://github.com/hadenlabs/ntp
+:Download: http://github.com/hadenlabs/ntp
+:Source: http://github.com/hadenlabs/ntp
+:Keywords: ntp
 
 .. contents:: Table of Contents:
     :local:
@@ -75,16 +75,16 @@ Made with :heart: :coffee: and :pizza: by `author`_ and `company`_.
 
 .. Badges:
 
-.. |Build Status| image:: https://travis-ci.org/hadenlabs/ansible-role-ntp.svg
-   :target: https://travis-ci.org/hadenlabs/ansible-role-ntp
+.. |Build Status| image:: https://travis-ci.org/hadenlabs/ntp.svg
+   :target: https://travis-ci.org/hadenlabs/ntp
 .. |Ansible Galaxy| image:: https://img.shields.io/badge/galaxy-hadenlabs.ntp-blue.svg
-   :target: https://galaxy.ansible.com/hadenlabs/ansible-role-ntp/
-.. |GitHub issues| image:: https://img.shields.io/github/issues/hadenlabs/ansible-role-ntp.svg
-   :target: https://github.com/hadenlabs/ansible-role-ntp/issues
-.. |Average time to resolve an issue| image:: http://isitmaintained.com/badge/resolution/hadenlabs/ansible-role-ntp.svg
-   :target: http://isitmaintained.com/project/hadenlabs/ansible-role-ntp
-.. |Percentage of issues still open| image:: http://isitmaintained.com/badge/open/hadenlabs/ansible-role-ntp.svg
-   :target: http://isitmaintained.com/project/hadenlabs/ansible-role-ntp
+   :target: https://galaxy.ansible.com/hadenlabs/ntp/
+.. |GitHub issues| image:: https://img.shields.io/github/issues/hadenlabs/ntp.svg
+   :target: https://github.com/hadenlabs/ntp/issues
+.. |Average time to resolve an issue| image:: http://isitmaintained.com/badge/resolution/hadenlabs/ntp.svg
+   :target: http://isitmaintained.com/project/hadenlabs/ntp
+.. |Percentage of issues still open| image:: http://isitmaintained.com/badge/open/hadenlabs/ntp.svg
+   :target: http://isitmaintained.com/project/hadenlabs/ntp
 .. |GitHub license| image:: https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square
    :target: LICENSE
 
