@@ -3,7 +3,7 @@ Ntp
 
 |Build Status| |Ansible Galaxy| |GitHub issues| |Average time to resolve an issue| |Percentage of issues still open| |GitHub license|
 
-:Version: 0.1.0
+:Version: 0.1.1
 :Web: https://github.com/hadenlabs/ntp
 :Download: http://github.com/hadenlabs/ntp
 :Source: http://github.com/hadenlabs/ntp
