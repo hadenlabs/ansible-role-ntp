@@ -6,7 +6,7 @@ services:
 
   # Django web server.
   web:
-    image: ansible-role-ntp-dev:1.0.0
+    image: ntp-dev:1.0.0
     ports:
       - "8000:8000"
       - "8080:5000"
@@ -21,7 +21,7 @@ services:
       - .env
 
   check:
-    image: check-ansible-role-ntp-dev:1.0.0
+    image: check-ntp-dev:1.0.0
     environment: *environment
     build:
       context: .
