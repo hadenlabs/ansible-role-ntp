@@ -2,7 +2,7 @@ FROM python:3.6.1
 
 MAINTAINER Luis Mayta <@slovacus>
 
-LABEL NAME ansible-role-ntp-dev
+LABEL NAME ntp-dev
 LABEL VERSION 1.0.1
 
 COPY ./requirements/ /usr/src/requirements/
